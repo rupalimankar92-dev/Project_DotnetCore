@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dbk2PIxneRKE8EeI+W3J2MaucLpdyjeVd3wwLJsm0m0=",
+  "Source": "AttributeRouting",
+  "BasePath": "_content/AttributeRouting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
